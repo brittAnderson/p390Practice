@@ -6,3 +6,5 @@ I made this. -- Bo
 I wrote this - Maya Hindle
 HI - Aaliyah
 I was here - Syed
+Hello - Catherine He
+Hello!! = Calhi S
