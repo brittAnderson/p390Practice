@@ -8,3 +8,4 @@ HI - Aaliyah
 I was here - Syed
 Hello - Catherine He
 Hello!! = Calhi S
+Hello - Jenny Chen
