@@ -2,10 +2,10 @@ This is the test file for pull requests. You need to edit below and add a commen
 
 Test pull request. -- Britt
 
-I made this. -- Bo
-I wrote this - Maya Hindle
-HI - Aaliyah
-I was here - Syed
-Hello - Catherine He
-Hello!! = Calhi S
-Hello - Jenny Chen
+I made this. -- Bo  
+I wrote this - Maya Hindle  
+HI - Aaliyah  
+I was here - Syed  
+Hello - Catherine He  
+Hello!! = Calhi S  
+Hello - Jenny Chen  
