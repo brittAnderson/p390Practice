@@ -2,7 +2,6 @@ This is the test file for pull requests. You need to edit below and add a commen
 I wrote this -- Sahil 
 Test pull request. -- Britt
 
-
 I made this. -- Bo
 I wrote this - Maya Hindle
 HI - Aaliyah
@@ -12,4 +11,3 @@ Hello!! = Calhi S
 Hello - Jenny Chen
 Hashir Khan was here. 
 Hi! - Serena Yip
-
