@@ -10,6 +10,8 @@ I was here - Syed
 Hello - Catherine He
 Hello!! = Calhi S
 Hello - Nikholai reyes 
+Hi- Jenny Chen
+Hi- Justin S
 Hello - Jenny Chen
 Hi - Caleb
 Hashir Khan was here. 
