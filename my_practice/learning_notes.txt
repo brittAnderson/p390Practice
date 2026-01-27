@@ -1,3 +1,0 @@
-Git is a version control system
-GitHub is a hosting service for git repositories
-GitHub is a hosting service for git repositories
