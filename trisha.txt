@@ -1,2 +1,0 @@
-I am learning git and GitHub for Psychology 390
-Git helps me track changes and collaborate effectively
