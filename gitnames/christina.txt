@@ -1,0 +1,3 @@
+I'm learning git and GitHub for PSYCH 390
+Git helps me track changes and collaborate effectively
+live laugh love version control requires patience to learn my friends
